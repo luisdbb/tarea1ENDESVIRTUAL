@@ -11,6 +11,12 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		int eleccion = -1;
 		System.out.println("Programa Main iniciado correctamente por LUISDBB");
+		System.out.println("Programa Main iniciado correctamente por LUISDBB");
+		System.out.println("Programa Main iniciado correctamente por LUISDBB");
+		System.out.println("Programa Main iniciado correctamente por LUISDBB");
+		System.out.println("Programa Main iniciado correctamente por LUISDBB");
+		System.out.println("Programa Main iniciado correctamente por LUISDBB");
+		System.out.println("Programa Main iniciado correctamente por LUISDBB");
 		do {
 			mostrarMenu();
 			eleccion = in.nextInt();
