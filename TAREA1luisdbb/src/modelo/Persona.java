@@ -5,6 +5,8 @@ public class Persona {
 	private Long id;
 	private String nombre;
 	
+	private int edad;
+	
 	
 	public Long getId() {
 		return id;
@@ -17,6 +19,15 @@ public class Persona {
 	}
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
+	}
+	
+	
+	
+	public int getEdad() {
+		return edad;
+	}
+	public void setEdad(int edad) {
+		this.edad = edad;
 	}
 	@Override
 	public String toString() {
